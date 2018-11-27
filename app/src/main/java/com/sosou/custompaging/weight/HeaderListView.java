@@ -199,6 +199,9 @@ public class HeaderListView extends RecyclerView
         return view.getHeight() * count;
     }
 
+    /**
+     * 标题伸缩效果
+     */
     private void unExpendAnimation()
     {
 
@@ -287,7 +290,6 @@ public class HeaderListView extends RecyclerView
          * [简要描述]:重置滚动状态<br/>
          * [详细描述]:重置滚动状态<br/>
          *
-         * @author TangCheng tWX326901
          */
         public void reset()
         {
