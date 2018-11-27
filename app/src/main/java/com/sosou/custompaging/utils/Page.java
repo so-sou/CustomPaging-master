@@ -1,7 +1,10 @@
 package com.sosou.custompaging.utils;
 
 /**
- * 分页类
+ * 作者：sosou
+ * 创建日期： 2018/11/27 16:47
+ * 简要描述：分页类
+ * 详细描述：
  */
 public class Page
 {

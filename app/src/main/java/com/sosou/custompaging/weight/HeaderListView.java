@@ -11,9 +11,10 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 /**
- * [简要描述]:自定义RecyclerView<br/>
- * [详细描述]:用于拦截触摸事件<br/>
- * 
+ * 作者：sosou
+ * 创建日期： 2018/11/27 16:46
+ * 简要描述：自定义RecyclerView
+ * 详细描述：用于拦截触摸事件
  */
 public class HeaderListView extends RecyclerView
 {
